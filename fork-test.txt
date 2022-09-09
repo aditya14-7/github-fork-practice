@@ -1,0 +1,2 @@
+This working directory is for Github Fork Practice.
+Clone this repo, create a new branch and add any file in your branch, add, commit, push and then raise a pull request.
